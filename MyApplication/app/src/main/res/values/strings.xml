@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="mssv">MSSV</string>
+    <string name="name">Họ Tên</string>
+    <string name="cccd">CCCD</string>
+    <string name="phone">Số ĐT</string>
+    <string name="birthday">Ngày sinh</string>
+    <string name="address1">Quê Quán</string>
+    <string name="address2">Nơi ở hiện tại</string>
+    <string name="major">Chuyên ngành</string>
+    <string name="program_language">Ngôn ngữ lập trình</string>
+</resources>
