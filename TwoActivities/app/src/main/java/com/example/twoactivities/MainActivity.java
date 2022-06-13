@@ -83,6 +83,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public void onSaveInstanceState(Bundle outState) {
+        Log.d(LOG_TAG, "call save state");
         super.onSaveInstanceState(outState);
 
         if (mReplyHeadTextView.getVisibility() == View.VISIBLE) {
